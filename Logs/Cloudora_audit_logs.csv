@@ -1,0 +1,6 @@
+TimeGenerated,UserPrincipalName,OperationName,Category,Result,TargetResource,Details,IPAddress,Location
+2026-07-27T03:18:00Z,daniel@cloudora.example,Register authentication method,Authentication,Success,MFA device,New authentication device registered: Pixel 6,102.89.23.41,Lagos
+2026-07-27T03:24:00Z,daniel@cloudora.example,Create inbox rule,Exchange,Success,RSS subscriptions,Inbox rule created to hide selected finance/invoice messages,102.89.23.41,Lagos
+2026-07-27T03:32:00Z,daniel@cloudora.example,Update mailbox settings,Exchange,Success,Mailbox,Mailbox settings modified,102.89.23.41,Lagos
+2026-07-27T03:34:00Z,priya@cloudora.example,Register authentication method,Authentication,Success,MFA device,New authentication device registered,102.89.23.57,Lagos
+2026-07-27T03:42:00Z,priya@cloudora.example,Create inbox rule,Exchange,Success,Invoice processing,Inbox rule created to move selected financial messages,102.89.23.57,Lagos
