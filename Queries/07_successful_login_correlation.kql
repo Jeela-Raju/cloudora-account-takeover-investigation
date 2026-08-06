@@ -1,0 +1,10 @@
+cloudoraAudit_CL
+| where IPAddress in (
+    "102.89.23.41",
+    "102.89.23.57",
+    "102.89.23.88"
+)
+| project TimeGenerated, UserPrincipalName, OperationName,
+          Category, Result, TargetResource, Details,
+          IPAddress, Location
+| order by TimeGenerated asc
