@@ -1,0 +1,5 @@
+['cloudorasignIn.CL']
+| where ResultType == "50126"
+| summarize FailedAttempts = count()
+    by bin(TimeGenerated, 1d)
+| order by TimeGenerated asc
