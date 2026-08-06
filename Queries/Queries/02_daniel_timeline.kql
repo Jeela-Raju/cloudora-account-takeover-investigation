@@ -1,8 +1,0 @@
-['cloudorasignIn.CL']
-| where UserPrincipalName == "daniel@cloudora.example"
-| where TimeGenerated between (
-    datetime(2026-07-20) .. datetime(2026-07-28)
-)
-| project TimeGenerated, AppDisplayName, IPAddress, Location,
-          Country, ResultType, ResultDescription
-| order by TimeGenerated asc
