@@ -1,0 +1,8 @@
+['cloudorasignIn.CL']
+| where IPAddress in (
+    "102.89.23.41",
+    "102.89.23.57",
+    "102.89.23.88"
+)
+| where ResultType == "0"
+| summarize by UserPrincipalName
