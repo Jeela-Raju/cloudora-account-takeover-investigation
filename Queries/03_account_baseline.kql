@@ -1,0 +1,8 @@
+['cloudorasignIn.CL']
+| where UserPrincipalName == "daniel@cloudora.example"
+| summarize 
+    SignIns = count(),
+    Min_Time = min(TimeGenerated),
+    Max_Time = max(TimeGenerated)
+    by Country, Location, IPAddress
+| order by SignIns desc
