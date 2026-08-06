@@ -1,0 +1,1505 @@
+TimeGenerated,UserPrincipalName,IPAddress,Location,Country,ResultType,ResultDescription,AppDisplayName,DeviceDetail,RiskLevel,ClientApp
+2026-07-20T07:01:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:03:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:04:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:05:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:05:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:09:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-20T07:10:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:14:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:24:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:25:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:29:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:37:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:38:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:42:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T07:45:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:01:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:02:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:03:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:05:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:09:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:13:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:15:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:18:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:22:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:24:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:24:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:28:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:37:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:38:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:42:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:43:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:48:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:54:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:56:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T08:56:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:03:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:12:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:16:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:16:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:16:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:23:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:26:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:27:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:29:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:29:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:32:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:38:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-20T09:42:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:42:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:44:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:51:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T09:59:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:03:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:03:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:04:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:04:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:14:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:14:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:14:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:16:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:17:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:34:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:34:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:37:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:37:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:42:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:42:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:43:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:45:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:47:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:48:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T10:50:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:02:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:02:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:05:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:08:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:10:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:11:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:22:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:23:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:25:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:29:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:32:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:35:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:38:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:39:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:49:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:53:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:59:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T11:59:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:00:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-20T12:01:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:04:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:13:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:13:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:13:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:16:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-20T12:17:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:17:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:18:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:25:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:27:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:27:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:36:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:48:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:49:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:50:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:56:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T12:58:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-20T13:01:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:05:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:07:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:08:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:12:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:14:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:23:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:43:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:50:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-20T13:52:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-20T13:55:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:56:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T13:57:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:01:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:07:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:13:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:14:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:18:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:20:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:22:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:32:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:34:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:35:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:52:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:53:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:55:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T14:57:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:00:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:02:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:03:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:07:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:09:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:13:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:16:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:20:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:31:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:42:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:46:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:48:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:49:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:49:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:56:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T15:58:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:01:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:05:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:05:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:06:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:12:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:12:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:16:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:17:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:27:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:27:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:29:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:35:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:36:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T16:40:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:06:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:12:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:16:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:19:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:27:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:37:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:41:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:41:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:46:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:53:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:55:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:55:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T17:56:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-20T19:14:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T07:03:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:15:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:15:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:22:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:31:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:39:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:54:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:54:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T07:59:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:08:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:10:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:15:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:18:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:37:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:44:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:48:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:49:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:49:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:53:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T08:55:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:03:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:09:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:12:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:19:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:27:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:31:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:39:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:41:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:42:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T09:53:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:04:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:07:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:08:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:09:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:11:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:11:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:18:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:24:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:29:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:29:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:45:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:46:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:49:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:53:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:53:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:53:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T10:58:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:06:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:14:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:15:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:18:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:24:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:28:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:32:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:32:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:35:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:42:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:44:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:48:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:50:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:53:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:55:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T11:56:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:05:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:07:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:10:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:17:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:19:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:20:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:27:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:30:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:34:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:40:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:48:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T12:51:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:07:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:09:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T13:19:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:21:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:21:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:28:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:28:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:30:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:31:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:31:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:34:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:35:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T13:35:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:37:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:42:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:44:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:44:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:45:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:50:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:53:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T13:57:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:01:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:03:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:04:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:06:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:07:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:08:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:09:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T14:11:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:14:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:17:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:17:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:18:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:25:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:26:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:26:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:28:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:28:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:28:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:29:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:35:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:36:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:41:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:50:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T14:50:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T14:57:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:08:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:08:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:12:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:21:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:22:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:31:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:38:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:41:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:41:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:48:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T15:55:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T15:57:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T15:59:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:03:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:17:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:18:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:20:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:20:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:36:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:38:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:40:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:41:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:43:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:49:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T16:50:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:51:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:52:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:54:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T16:57:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:01:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:04:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:05:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:07:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:13:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:13:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:19:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:23:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:24:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:26:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:27:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:33:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:38:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:46:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:47:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:51:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:55:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T17:58:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-21T18:00:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-21T19:28:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T07:02:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:03:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:08:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:11:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:18:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:19:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:25:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:30:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:37:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:46:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T07:53:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:01:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:06:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:08:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:14:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:15:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:15:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:15:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T08:17:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:20:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:28:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:29:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:30:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:30:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:38:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:42:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:42:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:43:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:43:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:54:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T08:55:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:00:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:04:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:05:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:05:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:08:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:12:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:14:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:16:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:28:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:48:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:50:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:50:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T09:59:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:04:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:07:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:17:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:21:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:24:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:28:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:33:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:33:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:37:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:37:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:40:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:41:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:44:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:45:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:47:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:53:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T10:54:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:00:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:02:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:11:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:28:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:29:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:29:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:35:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:41:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:42:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:42:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:44:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:46:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:47:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:49:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:50:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:51:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T11:52:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:07:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:13:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T12:26:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:27:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:39:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:43:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:45:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T12:47:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:58:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T12:59:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:00:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:02:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:06:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:12:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:12:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T13:17:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:20:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:21:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:29:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:37:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:39:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:40:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:41:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:42:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:47:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T13:55:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:01:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:02:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T14:02:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:02:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T14:04:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T14:07:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:10:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:22:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:23:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:26:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:28:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:30:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:32:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:33:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:35:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:39:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:44:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:45:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:56:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:57:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:58:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T14:59:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:02:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:02:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:07:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:07:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:08:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:23:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:26:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:31:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:32:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:37:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:37:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:45:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:47:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:48:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:52:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:56:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:57:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T15:58:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:00:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:01:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:02:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:02:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:16:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T16:16:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:16:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:19:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:22:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:24:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:24:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:37:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:43:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:47:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:47:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:48:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T16:51:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:05:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:06:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:09:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:16:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:28:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:34:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:40:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:46:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:49:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:52:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:54:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T17:55:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-22T18:00:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T18:35:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-22T19:44:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T07:03:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:11:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:14:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:15:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:16:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:18:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:20:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:26:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:26:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:28:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:31:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:38:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:41:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:43:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T07:57:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T07:57:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:01:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T08:03:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:05:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:08:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:09:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:20:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:21:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:26:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:27:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:27:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:32:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:41:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:47:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:54:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:55:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T08:58:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:02:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:04:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:04:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:08:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:10:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:21:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:28:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:35:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:36:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:38:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:42:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:42:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:46:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:48:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:48:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:49:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:53:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T09:53:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:06:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:11:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:14:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:19:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:19:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:21:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:23:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:24:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:24:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:26:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T10:26:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:27:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:27:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T10:54:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:04:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:05:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:07:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:15:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:16:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:20:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:22:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:28:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:28:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:29:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:29:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:35:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:37:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T11:58:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:00:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:07:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:09:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:14:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:14:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:19:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:19:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:19:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:20:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T12:32:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:35:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:38:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:42:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:45:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:46:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:51:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:54:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:55:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:58:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T12:59:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:01:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:07:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:09:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:10:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:17:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:26:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:29:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:32:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:32:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:33:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:38:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:40:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:45:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:55:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T13:55:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:04:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:04:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:14:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:21:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:25:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:28:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:28:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:29:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:33:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:33:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:38:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:39:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:44:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:48:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:56:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T14:58:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:02:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:03:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:07:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:12:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:23:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:27:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:35:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:35:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:41:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:43:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:45:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:45:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:49:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:50:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T15:54:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:03:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:08:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:08:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:10:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:14:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:14:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T16:27:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:27:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:28:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:29:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:30:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:32:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:38:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:38:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:40:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:42:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T16:43:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:06:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:07:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:12:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:18:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T17:21:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:37:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T17:38:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:40:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:41:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:43:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:46:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:48:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T17:50:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-23T18:04:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T19:12:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-23T19:56:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-24T07:02:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:08:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:09:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:10:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:18:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:20:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:23:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:23:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:36:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:38:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:40:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:40:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:50:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T07:52:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:01:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:02:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:03:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:04:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:05:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:16:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:20:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:25:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-24T08:27:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:30:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-24T08:33:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:42:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:45:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T08:51:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:02:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:06:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:20:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:20:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:29:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:33:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:40:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:42:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:44:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T09:54:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:01:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:13:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:17:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:21:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:38:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:39:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:49:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:50:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:50:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T10:51:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:10:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:14:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:15:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-24T11:27:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:29:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:31:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:34:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:40:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:41:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:45:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:46:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:51:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T11:54:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:03:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:08:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:10:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:11:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:12:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:15:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:16:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:24:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:25:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:25:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:26:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:28:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:28:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:32:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:33:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:34:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:39:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:41:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:50:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:50:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:51:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:55:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:59:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T12:59:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:03:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:05:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:09:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:15:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:23:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:30:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:32:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:32:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:32:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:32:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:32:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:44:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:45:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:52:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:55:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:55:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T13:56:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:01:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:07:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:11:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:12:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:15:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:16:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:23:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:29:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:32:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:33:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:38:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:38:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:55:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:56:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T14:56:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-24T14:57:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:07:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:08:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:12:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:14:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:17:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:18:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:18:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:20:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:21:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:23:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:23:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:24:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:26:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:29:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-24T15:29:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:34:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:34:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:34:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:35:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:40:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:41:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T15:51:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:04:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:08:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:11:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:14:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:15:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:19:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:19:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:21:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:21:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:22:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:23:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:26:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:26:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:30:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:30:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:30:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:34:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:37:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:47:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:47:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:52:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T16:57:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:01:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:07:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:11:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:11:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:12:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:17:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:18:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:19:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:21:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:22:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:28:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:29:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:34:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:35:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:39:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:40:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-24T17:42:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:43:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:49:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:50:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:50:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T17:54:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-24T18:44:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T01:02:00Z,user15@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:11:00Z,user13@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:19:00Z,user2@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:19:00Z,user10@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:25:00Z,omar@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:28:00Z,user6@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:32:00Z,user9@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:39:00Z,daniel@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:53:00Z,user14@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T01:58:00Z,user16@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T02:01:00Z,carol@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T02:19:00Z,david@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T02:46:00Z,user4@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T02:47:00Z,user7@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T02:49:00Z,user3@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T02:54:00Z,emma@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:06:00Z,user1@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:12:00Z,user17@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:15:00Z,alice@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:25:00Z,user11@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:30:00Z,ben@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:41:00Z,user5@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:44:00Z,priya@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:55:00Z,user8@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T03:56:00Z,user12@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-25T07:00:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:00:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:06:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:13:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:16:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:16:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:19:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:25:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:33:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:35:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:35:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:35:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:42:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:47:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:47:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:51:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:53:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:53:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:53:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T07:58:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:00:00Z,omar@cloudora.example,41.73.112.9,Nairobi,Kenya,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:11:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:25:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:33:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:34:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:38:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:43:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:45:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:47:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T08:58:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:08:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:08:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:11:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T09:18:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:26:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:29:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:32:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:39:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:40:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:41:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T09:56:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T10:08:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:12:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:13:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:15:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:15:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:19:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:21:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:23:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:25:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:40:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:43:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:44:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:47:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:47:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:51:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:51:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:52:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:53:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:59:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T10:59:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:00:00Z,omar@cloudora.example,41.73.112.9,Nairobi,Kenya,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:07:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:08:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:09:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:20:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:20:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T11:23:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:24:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:36:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:44:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:45:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:45:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:48:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:54:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:58:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T11:59:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:09:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:10:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:14:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:18:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:19:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:26:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:35:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:39:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:41:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:45:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:54:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:57:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:59:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T12:59:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:02:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:05:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:08:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:09:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:11:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:11:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:15:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:16:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T13:19:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:22:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:28:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:29:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:29:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:32:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:33:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:34:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:41:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:43:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T13:52:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:00:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T14:00:00Z,omar@cloudora.example,41.73.112.9,Nairobi,Kenya,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:02:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:07:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:08:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:10:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:11:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:11:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:13:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:15:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:19:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:20:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:23:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:29:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:35:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:38:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:41:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:42:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:48:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:48:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:48:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:54:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:55:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:56:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T14:58:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:03:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:09:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:12:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:13:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:20:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:20:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:26:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:26:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:28:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:29:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:31:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:33:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:45:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T15:47:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:00:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:01:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T16:02:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:04:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:31:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:37:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:38:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:38:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:40:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:47:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:49:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T16:53:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:03:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:03:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:16:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:16:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:22:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:23:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:33:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:34:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:34:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:35:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:36:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:46:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:46:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:47:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:51:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:52:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:57:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T17:58:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-25T18:42:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-25T19:34:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T01:14:00Z,user10@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T01:18:00Z,user1@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T01:23:00Z,alice@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T01:29:00Z,user15@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T01:30:00Z,user8@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T01:41:00Z,user4@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T01:43:00Z,omar@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T01:55:00Z,user7@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:03:00Z,user2@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:22:00Z,david@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:27:00Z,user13@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:29:00Z,user14@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:37:00Z,user17@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:37:00Z,carol@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:47:00Z,emma@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T02:52:00Z,daniel@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:11:00Z,user9@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:13:00Z,user5@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:25:00Z,priya@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:26:00Z,user6@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:28:00Z,ben@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:33:00Z,user16@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:45:00Z,user12@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:49:00Z,user3@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T03:51:00Z,user11@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-26T07:05:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T07:06:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T07:36:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T07:40:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T07:40:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T07:46:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T07:51:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T07:54:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:00:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:05:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:05:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:10:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:11:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:11:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:15:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:19:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:23:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:25:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:32:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:36:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:36:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:43:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:43:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T08:49:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:52:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:53:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T08:58:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:03:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T09:05:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:17:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:19:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:22:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:23:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T09:24:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:25:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:31:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:32:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T09:41:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:13:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:13:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:18:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:19:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:28:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:28:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:29:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:30:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:33:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:33:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:39:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:51:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T10:53:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:01:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:06:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:08:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:10:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:11:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T11:14:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:14:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:15:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:20:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:21:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:26:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:28:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:31:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:42:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:47:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:50:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:52:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T11:55:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:01:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:04:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:16:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:22:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:24:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:24:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:25:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:30:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:35:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:38:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:44:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:50:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T12:53:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:00:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:01:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:04:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:06:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:11:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:20:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:21:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:23:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:24:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:24:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:34:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:34:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:35:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:35:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:37:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:38:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:41:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:43:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:51:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T13:58:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:01:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T14:06:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:08:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:16:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:17:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:21:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:31:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:31:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T14:31:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:34:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:35:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:36:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:46:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T14:50:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:05:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:09:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:10:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:10:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:11:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:11:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:26:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:27:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:32:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:35:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:36:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:40:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:52:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:52:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:57:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T15:58:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:03:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:07:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:09:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:11:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:12:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:12:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:14:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:15:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:18:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:24:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:24:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:25:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:30:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:33:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:35:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-26T16:37:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:40:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:47:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:50:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:50:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T16:54:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:06:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:08:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:09:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:11:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:24:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:24:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:27:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:31:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:31:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:31:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:31:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:37:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:38:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:42:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:42:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:54:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T17:59:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-26T19:40:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T01:18:00Z,user17@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T01:32:00Z,daniel@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T01:37:00Z,user9@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T01:41:00Z,user6@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T01:43:00Z,user12@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T01:51:00Z,user3@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:04:00Z,ben@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:12:00Z,user1@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:16:00Z,user7@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:16:00Z,david@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:24:00Z,user8@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:35:00Z,priya@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:40:00Z,carol@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:42:00Z,user4@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:43:00Z,alice@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:46:00Z,user11@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:54:00Z,user15@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T02:54:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T03:08:00Z,user5@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:12:00Z,daniel@cloudora.example,102.89.23.41,Lagos,Nigeria,0,Success,Microsoft 365,Unknown Windows,high,Browser
+2026-07-27T03:22:00Z,user14@cloudora.example,102.89.23.57,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:26:00Z,priya@cloudora.example,102.89.23.57,Lagos,Nigeria,0,Success,Microsoft 365,Unknown Windows,high,Browser
+2026-07-27T03:38:00Z,omar@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:44:00Z,daniel@cloudora.example,102.89.23.41,Lagos,Nigeria,0,Success,Microsoft 365,Unknown Windows,high,Browser
+2026-07-27T03:48:00Z,user2@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:50:00Z,user13@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:51:00Z,priya@cloudora.example,102.89.23.41,Lagos,Nigeria,0,Success,Microsoft 365,Unknown Windows,high,Browser
+2026-07-27T03:52:00Z,user10@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:56:00Z,user16@cloudora.example,102.89.23.41,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:57:00Z,emma@cloudora.example,102.89.23.88,Lagos,Nigeria,50126,Invalid username or password,Microsoft 365,Unknown,medium,Browser
+2026-07-27T03:58:00Z,daniel@cloudora.example,102.89.23.57,Lagos,Nigeria,0,Success,Microsoft 365,Unknown Windows,high,Browser
+2026-07-27T07:05:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T07:06:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:07:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:10:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:10:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:11:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T07:15:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:15:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:17:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:25:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:25:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:25:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:27:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:31:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:39:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T07:44:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:00:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:00:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:00:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:00:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:01:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:01:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:02:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:09:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:10:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:15:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:20:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:28:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:32:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:33:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:37:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:40:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:46:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:49:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:50:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:51:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T08:55:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:05:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:11:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:14:00Z,carol@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:15:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:15:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:20:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:23:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:24:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:28:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:30:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:34:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:36:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:36:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:40:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:41:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:47:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:48:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T09:48:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:02:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:05:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:06:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:08:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:08:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:09:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:13:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:18:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:20:00Z,carol@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:22:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:27:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:31:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:31:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:33:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:46:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:47:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:51:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:57:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T10:57:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:05:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:05:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:05:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:05:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:06:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:08:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:10:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:14:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:14:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T11:20:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:33:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:36:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:38:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:41:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:42:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:45:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:49:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:52:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:52:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T11:54:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:00:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:09:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:12:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:20:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:26:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:27:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:29:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:33:00Z,ben@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:35:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:37:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:37:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:49:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:51:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:53:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:53:00Z,priya@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:55:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:57:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:58:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T12:59:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T12:59:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:01:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:05:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:07:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:12:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:13:00Z,priya@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:22:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T13:23:00Z,emma@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:23:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:27:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:32:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:32:00Z,alice@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:37:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:39:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:44:00Z,david@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:46:00Z,ben@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T13:58:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:03:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:04:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:04:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:19:00Z,emma@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:22:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:23:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:29:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:32:00Z,ben@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:47:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T14:55:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:00:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:03:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:15:00Z,david@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:22:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T15:22:00Z,david@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:29:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:38:00Z,omar@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:39:00Z,alice@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:43:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:47:00Z,emma@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:51:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:56:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T15:57:00Z,daniel@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:02:00Z,emma@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:06:00Z,david@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:08:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:14:00Z,priya@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:15:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:18:00Z,omar@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:22:00Z,daniel@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:23:00Z,carol@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:37:00Z,emma@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:38:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:43:00Z,ben@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:46:00Z,omar@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:50:00Z,carol@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T16:56:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T17:04:00Z,ben@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:05:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:11:00Z,alice@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:19:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:25:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:26:00Z,daniel@cloudora.example,103.25.44.20,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:27:00Z,daniel@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:28:00Z,priya@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:38:00Z,alice@cloudora.example,81.2.69.10,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:42:00Z,daniel@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:45:00Z,alice@cloudora.example,103.25.44.21,Bengaluru,India,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:47:00Z,omar@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:56:00Z,omar@cloudora.example,81.2.69.12,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T17:57:00Z,priya@cloudora.example,81.2.69.11,London,United Kingdom,0,Success,Microsoft 365,Windows 11,none,Browser
+2026-07-27T18:01:00Z,carol@cloudora.example,103.25.44.20,Bengaluru,India,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
+2026-07-27T18:26:00Z,david@cloudora.example,81.2.69.11,London,United Kingdom,50126,Invalid username or password,Microsoft 365,Windows 11,low,Browser
